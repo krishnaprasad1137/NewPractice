@@ -1,0 +1,21 @@
+/* .sidebar{
+    width: 100px;
+    height: 300px;
+    background-color: rgb(197, 215, 130);
+    color: red;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+} */
+.sideBar{
+    width: 100px;
+    height: 400px;
+    background-color:rgb(146, 155, 164);
+    color: red;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}

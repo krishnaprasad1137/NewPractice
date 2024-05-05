@@ -1,0 +1,17 @@
+
+.content{
+    display: flex;
+    flex-direction:row ;
+    position: relative;
+    left: 300px;
+    justify-content:space-between; 
+    width: 400px;   
+    
+}
+.done{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 300px;
+    
+}
